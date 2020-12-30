@@ -210,6 +210,7 @@ fit %>%
   autoplot(myhouse)
 ```
 
+
 # Conclusions
 # From the plots in Exploratory Data Analysis, the property sales increase from 2007 to 2017. In the meanwhile, the price of property increases. 
 # However, the price starts to decrease may be due to the rapid decreasing in property sales. After applying the ARIMA model to forecast the house 
