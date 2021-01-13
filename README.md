@@ -13,4 +13,4 @@ myhouse %>%
 ```
 
 ## Data Exploration of Universities
-> Academic project during Business Analytics course from Jan.2020 to May.2020. Since this is the first technical class after I shifted my major to Information Technology & Management (ITM), this project is fundamental and simple to understand Exploratory Data Analysis (EDA) for a starter.
+> Academic project (with other 3 team members) during Business Analytics course from Jan.2020 to May.2020. Since this is the first technical class after I shifted my major to Information Technology & Management (ITM), this project is fundamental and simple to understand Exploratory Data Analysis (EDA) for a starter.
